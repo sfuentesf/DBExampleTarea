@@ -28,20 +28,28 @@ public final class R {
         public static final int ic_launcher=0x7f020002;
     }
     public static final class id {
+        public static final int dateTime=0x7f08000d;
+        public static final int depth=0x7f08000a;
         public static final int dist=0x7f080008;
-        public static final int hPBarLayout=0x7f080000;
-        public static final int legacy_navigation_progressBar=0x7f080001;
-        public static final int listView1=0x7f080003;
+        public static final int hPBarLayout=0x7f080001;
+        public static final int latitude=0x7f08000b;
+        public static final int legacy_navigation_progressBar=0x7f080002;
+        public static final int link=0x7f08000e;
+        public static final int listView1=0x7f080000;
+        public static final int longitude=0x7f08000c;
+        public static final int magnitude=0x7f080009;
         public static final int progressBar1=0x7f080004;
         public static final int storelistItemLayout=0x7f080005;
         public static final int storelistSubItemLayout=0x7f080006;
         public static final int title=0x7f080007;
-        public static final int webView=0x7f080002;
+        public static final int webView=0x7f080003;
     }
     public static final class layout {
-        public static final int activity_detail=0x7f030000;
-        public static final int activity_main=0x7f030001;
-        public static final int data_item=0x7f030002;
+        public static final int actividad=0x7f030000;
+        public static final int activity_detail=0x7f030001;
+        public static final int activity_main=0x7f030002;
+        public static final int data_item=0x7f030003;
+        public static final int data_item2=0x7f030004;
     }
     public static final class string {
         public static final int action_settings=0x7f060001;
